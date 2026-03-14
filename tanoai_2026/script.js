@@ -4,9 +4,9 @@ function checkCode() {
 
     // 先輩ごとの4桁コードと画像URL
     const pages = {
-        "1234": "images/messageA.jpg",
-        "5678": "images/messageB.jpg",
-        "9012": "images/messageC.jpg"
+        "1234": "image/messageA.jpg",
+        "5678": "image/messageB.jpg",
+        "9012": "image/messageC.jpg"
     };
 
     if (pages[code]) {
