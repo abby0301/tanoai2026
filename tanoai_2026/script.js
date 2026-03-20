@@ -13,7 +13,7 @@ function checkCode() {
         "0304": "image/Sasaki.png",
         "0512": "image/Yoshida.png",
         "0320": "image/Kinn.png",
-        "0920": "image/Motoi.png",
+        "0920": "image/Motoi.pdf",
         "0428": "image/Matushita.png"
     };
 
